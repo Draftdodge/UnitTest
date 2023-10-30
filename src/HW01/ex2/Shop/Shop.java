@@ -1,6 +1,5 @@
-package HW01.ex1.Shop;
+package HW01.ex2.Shop;
 
-import java.util.Comparator;
 import java.util.List;
 
 public class Shop {

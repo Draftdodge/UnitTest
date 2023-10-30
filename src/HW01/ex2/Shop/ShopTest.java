@@ -1,4 +1,4 @@
-package HW01.ex1.Shop;
+package HW01.ex2.Shop;
 
 public class ShopTest {
 
